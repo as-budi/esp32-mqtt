@@ -1,5 +1,5 @@
 # python 3.6
-# publish data to broker
+# publish data to broker by topic
 
 import random
 import time
