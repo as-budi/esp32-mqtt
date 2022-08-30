@@ -1,5 +1,5 @@
 # python 3.6
-# publish
+# publish data
 
 import random
 import time
